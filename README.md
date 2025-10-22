@@ -1,6 +1,6 @@
 # shubhamsharma.site
 
-A personal website for **Shubham Sharma** — PhD candidate in Computational Mechanics.
+A personal website template
 
 ## Files
 - `index.html` — main structure
